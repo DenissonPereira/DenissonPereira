@@ -3,7 +3,7 @@
 
 
 
-<p align="center">Eu ❤️ enfrentar grandes desafios por meio da tecnologia. <br><br> Desde o desenvolvimento backend com <strong>Node.js</strong> até o desenvolvimento frontend com <strong>ReactTS</strong>, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Atualmente, sou um <strong>desenvolvedor Full Stack</strong> e também um <strong>doutorando em física</strong> ⚛️, buscando conciliar o fascinante mundo da programação com a profundidade do conhecimento na área científica.</p>
+<p align="center">Eu ❤️ enfrentar grandes desafios por meio da tecnologia. <br><br> Desde o desenvolvimento backend com <strong>Node.js</strong> até o desenvolvimento frontend com <strong>ReactTS</strong>, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Atualmente, sou um <strong>desenvolvedor Full Stack</strong> 💻 e também um <strong>doutorando em física</strong> ⚛️, buscando conciliar o fascinante mundo da programação com a profundidade do conhecimento na área científica.</p>
 &nbsp;
 
 <div align="center">
