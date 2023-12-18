@@ -12,6 +12,11 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenissonPereira&layout=compact&langs_count=7"/>
 </div>
 
+<div style="text-align:center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DenissonPereira" alt="Troféus do GitHub">
+</div>
+
+
 ## 🛠️ Minhas Habilidades
 &nbsp;
 #### Main Stack:
